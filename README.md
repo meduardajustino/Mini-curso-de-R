@@ -11,7 +11,7 @@ Este curso é projetado para iniciantes e cobre fundamentos essenciais da lingua
 - **Configuração Inicial**: Como instalar e configurar o R e o RStudio para criar seu ambiente de desenvolvimento.
 - **Fundamentos de R**: Uma introdução aos tipos de dados e estruturas de controle em R.
 - **Ferramentas de Desenvolvimento**: Uso de funções e pacotes para expandir as capacidades do R.
-- **Visualização de Dados**: Técnicas para criar gráficos expressivos com o ggplot2[^1^][1].
+- **Visualização de Dados**: Técnicas para criar gráficos expressivos com o ggplot2.
 
 ## Organização do Repositório
 
